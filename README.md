@@ -19,3 +19,9 @@ Following things are done in the video:
 </a>
 
 <!-- markdownlint-disable-file MD033 -->
+
+## Eclipse Setup
+
+1. At "Window -> Preferences -> Java -> Installed JREs" ensure that the default JRE is named `JavaSE-14`
+2. File -> Import -> "Import Gradle project" -> choose `build.gradle`.
+3. Help -> "Eclipse Marketplace..." -> Search and install "editorconfig" plugin.
