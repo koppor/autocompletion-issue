@@ -4,6 +4,8 @@ This is to demonstracte an autocompletion issue at IntelliJ 2020.1.1 201.7223.91
 
 When having a class with >50 members, the auto completion does not start the search *within* the available fields.
 
+Filed as [IDEA-240542](https://youtrack.jetbrains.com/issue/IDEA-240542).
+
 ## Video demonstrating the issue
 
 Following things are done in the video:
