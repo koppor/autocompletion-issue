@@ -3,6 +3,6 @@ package code;
 public class Demo {
 
     public void demo() {
-        String value= Constants;
+        String value = Constants.Code_03y;
     }
 }
